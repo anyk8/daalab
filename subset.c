@@ -1,4 +1,4 @@
-/*B10 Design and develop a program in C to find the subset of a given set S={S1,S2,S3,…..Sn} of n positive integers whose sum is equal to a positive integer d and to display a suitable message if the given problem instance does not have the solution. (backtracking problem */
+/*B10 Design and develop a program in C to find the subset of a given set S={S1,S2,S3,â€¦..Sn} of n positive integers whose sum is equal to a positive integer d and to display a suitable message if the given problem instance does not have the solution. (backtracking problem */
 
 #include<stdio.h>
 #include<math.h>
